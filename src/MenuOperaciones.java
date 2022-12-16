@@ -15,7 +15,7 @@ public class MenuOperaciones {
 		
 		switch (menu) {
 		case 1:
-			
+			System.out.println("La suma es: "+(num1+num2));
 			break;
 		case 2:
 			
